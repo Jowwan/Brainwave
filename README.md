@@ -6,7 +6,7 @@ Welcome to **Brainwave**, a concept landing page for an AI chatting company, des
 
 ## 🌐 **Live Demo**
 
-Explore the landing page here: [Brainwave Landing Page](https://your-demo-link.com)
+Explore the landing page here: [Brainwave Landing Page](brainwave-jowwan.vercel.app)
 
 ---
 
